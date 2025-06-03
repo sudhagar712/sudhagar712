@@ -63,14 +63,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/sudhagar712/sudhagar712/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 💡 Fun Fact
 
 > 🌱 I'm a lifelong learner — whether it's a new framework, tool, or best practice, I'm always leveling up through real-world projects and community contributions.
