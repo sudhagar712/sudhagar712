@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 2.8rem;">Hey 👋, I'm <span style="color:#58A6FF;">Sudhagar</span></h1>
-<h3 align="center" style="font-size: 1.6rem;">🚀 Full Stack Developer | React ⚛️ | Node 🚀 | Based in India 🇮🇳</h3>
+<h3 align="center" style="font-size: 1.6rem;">🚀 Full Stack Developer | ReactJS ⚛️ | NodeJs 🚀 | Based in India 🇮🇳</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%2F+Node+%2F+MongoDB;Open+Source+Contributor;Cloud+%26+DevOps+Explorer;Lifelong+Learner+%F0%9F%8C%8D" alt="Typing Animation" />
