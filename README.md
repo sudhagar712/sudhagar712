@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 2.8rem;">Hey 👋, I'm <span style="color:#58A6FF;">Sudhagar</span></h1>
+<h1 align="center" style="font-size: 3rem;">Hey 👋, I'm <span style="color:#58A6FF;">Sudhagar</span></h1>
 <h3 align="center" style="font-size: 1.6rem;">🚀 Full Stack Developer | ReactJS ⚛️ | NodeJs 🚀 | Based in India 🇮🇳</h3>
 
 <div align="center">
